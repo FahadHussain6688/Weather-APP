@@ -7,8 +7,11 @@ A simple Python GUI application that fetches real-time weather data using the Op
   - Temperature
   - Weather condition
   - Humidity
+  - 5-day forecast
 - GUI built with Tkinter
 - Error handling for invalid inputs
+
+Features include a modern, theme-switchable interface and weather icons for a clean user experience.
 
 ## Setup
 
