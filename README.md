@@ -11,7 +11,7 @@ A simple Python GUI application that fetches real-time weather data using the Op
 - GUI built with Tkinter
 - Error handling for invalid inputs
 
-Features include a modern, theme-switchable interface and weather icons for a clean user experience.
+A modern, theme-switchable interface and weather icons for a clean user experience.
 
 ## Setup
 
