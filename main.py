@@ -5,7 +5,7 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 from io import BytesIO
 
-API_KEY = "1ecf1e984a2e0cb108181f117f3a22a0"
+API_KEY = "your-api-key-here"
 
 class WeatherApp:
     def __init__(self, root):
